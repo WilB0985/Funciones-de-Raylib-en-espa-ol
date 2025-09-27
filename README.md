@@ -1,4 +1,4 @@
-Funciones de Raylib en español 
+FUNCIONES DE RAYLIB EN ESPAÑOL
 Traducción al español de las funciones de la biblioteca gráfica Raylib.
 
 Si eres alguien que no entiende bien inglés —como me pasa a mí— acá te traigo las funciones que ya están en la documentación oficial de la librería, 
